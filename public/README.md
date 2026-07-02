@@ -8,7 +8,7 @@
 |項目|値|
 |---|---|
 |名前 / HN|おくの|
-|職種| Webアプリ開発（フロントエンド、バックエンド、インフラ層など必要な分野全て）|
+|経験職種| Webアプリ開発（FE, BE, サーバレスPaaS、その他小規模開発に必要な分野全て）|
 
 ### 資格
 
@@ -103,18 +103,19 @@
 
 ## 業務外活動
 
-### 個人学習 / ハンズオン
+### ハンズオン学習
 
-チュートリアル拡張や自作テンプレなどが中心の、主にハンズオン学習を目的にした過去の個人リポジトリです。公開するようなレベルのものではありません。
+主にハンズオン学習を目的にしたリポジトリの一部です。正直公開するほどのレベルではないので、あくまで個人的に取り組んできた技術分野を簡単に紹介するために一部Publicにして以下に記載します(作成日降順)。
 
-|リポジトリ名(作成日降順)|主要技術|概要|
-|---|---|---|
-|[resume](https://github.com/200okmk/resume)|`React`, `TanStack Router`, `TailwindCSS`, `Vite`, `Github Pages`, etc.|Markdownファイルで作成・追記した自身の職務経歴書を自動でWebサイト化＆公開して、長期的に運用できるようにするもの。|
-|[full-tanstack-starter](https://github.com/200okmk/)|`React`, `TanStack Start/Query/Form`, `BetterAuth`, `DrizzleORM`, `NeonDB`, `Cloudflare` etc.|フルスタックWebアプリ開発に必要な土台を素早く展開するための、個人的に好きな各分野の主要ライブラリを事前に組み合わせたテンプレ。AIコーディングツールの使用を前提にしたドキュメント整備にも挑戦（している途中）。使用技術とアーキテクチャを随時更新していく。|
-|[discord-clone](https://github.com/200okmk/discord-clone)|`Next.js AppRouter`, `TailwindCSS`, `Zustand`, `Clerk`, `PrismaORM`, `Socket.io`,`Docker` `Render`, etc.|エンジニア転職ポートフォリオ用に作成した初めてのWebアプリ。WebSocket通信によるリアルタイムチャットやビデオ通話機能などがアプリ本体のフルスタックWeb開発に加えて、アプリ本体とDBのDockerコンテナ化、チーム開発を意識したDevContainerの設定とGithub Projectsによる全ての開発記録、アニメーションライブラリ|
+|リポジトリ名|主要技術|概要|こだわり？|
+|---|---|---|---|
+|[resume](https://github.com/200okmk/resume)|`TypeScript`, `React19`, `TanStack Router`, `TailwindCSS`, `Vite`, `Github Pages`, etc.|Markdownファイルで作成・追記した職務経歴書をWebサイト化&自動デプロイすることで、URL共有や定期的な更新を容易にするためのプロジェクト。|
+|[full-tanstack-starter](https://github.com/200okmk/)|`TypeScript`, `React19`, `TanStack Start/Query/Form`, `TailwindCSS`, `BetterAuth`, `DrizzleORM`, `NeonDB`, `Cloudflare` etc.|フルスタックWebアプリ開発に必要な土台を素早く用意するために、各分野の主要ライブラリを事前に組み合わせたテンプレ。|AIコーディングの使用を前提に、その制御手法やドキュメント運用手法の学習と整備に挑戦中。使用技術やアーキテクチャも随時更新していく（はず）。|
+|[discord-clone](https://github.com/200okmk/discord-clone)（停止中）|`TypeScript`, `React18`, `Next.js AppRouter`, `TailwindCSS`, `Zustand`, `Clerk`, `PrismaORM`, `Socket.io`, `Docker`, `Render`, etc.|エンジニア転職用のポートフォリオとして作成した最初のWebアプリ。機能は基本的なチャットIF、サーバーとチャンネルの作成・招待追放・管理などのCRUD操作、WebSocketによるリアルタイムプッシュ通信、ビデオ通話、フルレスポンシブUI、ダークモード、ランディングページなど。|未経験ながら必要そうに感じたものは妥協せず、当時の限界まで様々な技術的挑戦をした。例えばチーム開発や保守性の向上に対して有効そうな仕組みやツールも適宜学習＆導入。具体的には、アプリ本体と本番DB両方のDockerコンテナ化、開発環境を丸ごと一律化するDevContainerの作成、Github Projects上にカンバンを作成して課題ごとにIssue起票＆エラーやアプローチ等を詳細に記録するなど。また最初から全ての記録を英語にしていたことが功を奏し、海外の駆け出しエンジニア数名からとても感謝されたことも非常に嬉しかった。|
+|[next13-nestjs-graphql](https://github.com/200okmk/next13-nest-graphql)|`TypeScript`, `React18`, `Next.js AppRouter`, `NestJS`, `PrismaORM`, `GraphQL`, `Apollo`, `Turborepo`, `Docker`, etc.|左記のNext.js, NestJSといったFE, BEそれぞれの主要フレームワークをに加えて|
 
 ### ブログ投稿
-特になし
+個人名では特になし（上記職務経歴欄 > 1社目の職務内容 > 記事執筆業務にて添付した記事のみ）
 
 ### OSS
 特になし
