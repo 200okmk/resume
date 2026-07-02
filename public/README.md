@@ -1,4 +1,5 @@
 # 職務経歴書
+最終更新: 2026年◯◯月◯◯日
 
 ## 基本情報
 
@@ -6,18 +7,22 @@
 
 |項目|値|
 |---|---|
-|ハンドルネーム|[あなたのハンドルネーム]|
-|最終学歴|[あなたの最終学歴]|
-|経験職種|[あなたの経験職種]|
+|名前 / HN|おくの|
+|職種| Webアプリ開発（フロントエンド、バックエンド、インフラ層など必要な分野全て）|
+
+### 資格
+
+|資格名|取得日|
+|---|---|
+|AWS認定 SAA|2026年8月（取得予定）|
+|IPA 基本情報技術者試験|2026年5月|
+|その他金融系|2021年、2022年|
 
 ### アカウント
 
-- [Zenn](https://zenn.dev/tsukuboshi)
-- [Qiita](https://qiita.com/kuraboshi)
-- [Github](https://github.com/tsukuboshi)
-- [SpeakerDeck](https://speakerdeck.com/tsukuboshi)
-- [Docswell](https://www.docswell.com/user/tsukuboshi)
-- [X](https://x.com/tsukuboshi0755)
+- [Github](https://github.com/200okmk)
+
+## 職務要約
 
 ## 業務スキル
 
@@ -35,16 +40,7 @@
 
 `[使用したことのある技術スタックを列挙してください]`
 
-## 保有称号
-
-### 資格
-
-|資格名|取得日|
-|---|---|
-|[資格名①]|[取得日]|
-|[資格名②]|[取得日]|
-
-## 経歴
+## 職務経歴
 
 ### [会社名①]（YYYY/MM - YYYY/MM）
 
@@ -107,45 +103,21 @@
 
 ## 業務外活動
 
-### 個人開発
+### 個人学習 / ハンズオン
 
-以下では開発した自作リポジトリの内、主要なものを記載します。
+チュートリアル拡張や自作テンプレなどが中心の、主にハンズオン学習を目的にした過去の個人リポジトリです。公開するようなレベルのものではありません。
 
-|リポジトリ名|言語|概要|
+|リポジトリ名(作成日降順)|主要技術|概要|
 |---|---|---|
-|[dotfiles](https://github.com/tsukuboshi/dotfiles)|`Bash`|自身の PC セットアップ用の dotfiles|
-|[sam-notify-aws-billing](https://github.com/tsukuboshi/sam-notify-aws-billing)|`SAM` `Python`|AWS 利用料金を通知するサーバレスシステムコード|
+|[resume](https://github.com/200okmk/resume)|`React`, `TanStack Router`, `TailwindCSS`, `Vite`, `Github Pages`, etc.|Markdownファイルで作成・追記した自身の職務経歴書を自動でWebサイト化＆公開して、長期的に運用できるようにするもの。|
+|[full-tanstack-starter](https://github.com/200okmk/)|`React`, `TanStack Start/Query/Form`, `BetterAuth`, `DrizzleORM`, `NeonDB`, `Cloudflare` etc.|フルスタックWebアプリ開発に必要な土台を素早く展開するための、個人的に好きな各分野の主要ライブラリを事前に組み合わせたテンプレ。AIコーディングツールの使用を前提にしたドキュメント整備にも挑戦（している途中）。使用技術とアーキテクチャを随時更新していく。|
+|[discord-clone](https://github.com/200okmk/discord-clone)|`Next.js AppRouter`, `TailwindCSS`, `Zustand`, `Clerk`, `PrismaORM`, `Socket.io`,`Docker` `Render`, etc.|エンジニア転職ポートフォリオ用に作成した初めてのWebアプリ。WebSocket通信によるリアルタイムチャットやビデオ通話機能などがアプリ本体のフルスタックWeb開発に加えて、アプリ本体とDBのDockerコンテナ化、チーム開発を意識したDevContainerの設定とGithub Projectsによる全ての開発記録、アニメーションライブラリ|
 
 ### ブログ投稿
+特になし
 
-以下では投稿したブログの内、主要なものを記載します。  
-
-#### Zenn埋め込みの例
-
-- [Macの環境をdotfilesでセットアップしてみた改](https://zenn.dev/tsukuboshi/articles/6e82aef942d9af)
-
-#### Qiita埋め込みの例
-
-- [【備忘録】Kubernetesの仕組みを整理する](https://qiita.com/kuraboshi/items/036ba1b5cf67cb8a6dcd)
+### OSS
+特になし
 
 ### イベント登壇
-
-以下では登壇したイベントの内、主要な資料及び動画を記載します。
-
-#### Docswell埋め込みの例
-
-**資料**
-
-- [Amazon Bedrock GenUハンズオン座学資料 #1 GenU環境で生成AIを体験してみよう - Docswell](https://www.docswell.com/slide/ZXE8GN/embed)
-
-#### SpeakerDeck埋め込みの例
-
-**資料**
-
-- [AWSとGitHubを用いたパターン別CI/CD構成解説 - Speaker Deck](https://speakerdeck.com/player/13ed26fb607a41d598f64b0b899dd0da)
-
-#### Youtube埋め込みの例
-
-**動画**
-
-- [AWS基盤でのCI/CD構成を徹底解説！CodeシリーズとGitHubの使い分けも解消 - YouTube](https://www.youtube.com/embed/nJ-eEgfbjG8?si=CiEVatkJa5fNdYqC)
+特になし
