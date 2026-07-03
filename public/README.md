@@ -105,14 +105,14 @@
 
 ### ハンズオン学習
 
-主にハンズオン学習を目的にしたリポジトリの一部です。正直公開するほどのレベルではないので、あくまで個人的に取り組んできた技術分野を簡単に紹介するために一部Publicにして以下に記載します(作成日降順)。
+主にハンズオン学習を目的にしたリポジトリの一部です。公開するほどのレベルではないので、あくまで個人的に取り組んできた技術分野を簡単に紹介するため一部Publicにして以下に記載します(作成日降順)。
 
-|リポジトリ名|主要技術|概要|こだわり？|
+|リポジトリ名|主要技術|概要|備考|
 |---|---|---|---|
-|[resume](https://github.com/200okmk/resume)|`TypeScript`, `React19`, `TanStack Router`, `TailwindCSS`, `Vite`, `Github Pages`, etc.|Markdownファイルで作成・追記した職務経歴書をWebサイト化&自動デプロイすることで、URL共有や定期的な更新を容易にするためのプロジェクト。|
-|[full-tanstack-starter](https://github.com/200okmk/)|`TypeScript`, `React19`, `TanStack Start/Query/Form`, `TailwindCSS`, `BetterAuth`, `DrizzleORM`, `NeonDB`, `Cloudflare` etc.|フルスタックWebアプリ開発に必要な土台を素早く用意するために、各分野の主要ライブラリを事前に組み合わせたテンプレ。|AIコーディングの使用を前提に、その制御手法やドキュメント運用手法の学習と整備に挑戦中。使用技術やアーキテクチャも随時更新していく（はず）。|
-|[discord-clone](https://github.com/200okmk/discord-clone)（停止中）|`TypeScript`, `React18`, `Next.js AppRouter`, `TailwindCSS`, `Zustand`, `Clerk`, `PrismaORM`, `Socket.io`, `Docker`, `Render`, etc.|エンジニア転職用のポートフォリオとして作成した最初のWebアプリ。機能は基本的なチャットIF、サーバーとチャンネルの作成・招待追放・管理などのCRUD操作、WebSocketによるリアルタイムプッシュ通信、ビデオ通話、フルレスポンシブUI、ダークモード、ランディングページなど。|未経験ながら必要そうに感じたものは妥協せず、当時の限界まで様々な技術的挑戦をした。例えばチーム開発や保守性の向上に対して有効そうな仕組みやツールも適宜学習＆導入。具体的には、アプリ本体と本番DB両方のDockerコンテナ化、開発環境を丸ごと一律化するDevContainerの作成、Github Projects上にカンバンを作成して課題ごとにIssue起票＆エラーやアプローチ等を詳細に記録するなど。また最初から全ての記録を英語にしていたことが功を奏し、海外の駆け出しエンジニア数名からとても感謝されたことも非常に嬉しかった。|
-|[next13-nestjs-graphql](https://github.com/200okmk/next13-nest-graphql)|`TypeScript`, `React18`, `Next.js AppRouter`, `NestJS`, `PrismaORM`, `GraphQL`, `Apollo`, `Turborepo`, `Docker`, etc.|左記のNext.js, NestJSといったFE, BEそれぞれの主要フレームワークをに加えて|
+|[resume](https://github.com/200okmk/resume)|`TypeScript`, `React19`, `TanStack Router`, `TailwindCSS`, `Vite`, `Github Actions`, `Github Pages`, etc.|Markdownファイルで作成・追記した職務経歴書をWebサイト化してURL共有やCSSスタイリングを可能にするためのプロジェクト。|当然自動デプロイもするので、経歴書更新をサボる隙などあるわけがない。|
+|[full-tanstack-starter](https://github.com/200okmk/full-tanstack-starter)|`TypeScript`, `React19`, `TanStack Start/Query/Form`, `TailwindCSS`, `BetterAuth`, `DrizzleORM`, `Vite`, `NeonDB`, `Cloudflare`, `Github Actions` etc.|フルスタックWebアプリ開発に必要な土台を素早く用意するために、各分野の主要ライブラリを事前に組み合わせたテンプレ。|AIコーディングツールの使用を前提に、その制御手法やドキュメント運用手法の学習と整備に挑戦中。使用技術やアーキテクチャも随時更新していく（はず）。|
+|[discord-clone](https://github.com/200okmk/discord-clone)（停止中）|`TypeScript`, `React18`, `Next.js AppRouter`, `TailwindCSS`, `Zustand`, `Clerk`, `PrismaORM`, `Socket.io`, `Docker`, `Render`, etc.|エンジニア転職用のポートフォリオとして作成した最初のWebアプリ。機能は基本的なチャットIF、サーバーとチャンネルの作成・招待追放・管理などのCRUD操作、WebSocketによるリアルタイムプッシュ通信、ビデオ通話、フルレスポンシブUI、ダークモード、ランディングページなど。|未経験ながら必要そうに感じたものは妥協せず、当時の限界まで様々な技術的挑戦をした。例えばチーム開発や保守性の向上に対して有効そうな仕組みやツールも適宜学習＆導入。具体的には、アプリ本体と本番DB両方のDockerコンテナ化、開発環境も丸ごとDockerコンテナ化して一律にするDevContainerの作成、Github Projects上にカンバンボードを作成して課題ごとにIssue起票＆エラーやアプローチ等を詳細に記録するなど。また最初から全ての記録を英語にしていたことが功を奏し、海外の同じ駆け出しエンジニア数名からとても感謝されたことも非常に嬉しかった。|
+|[next13-nestjs-graphql](https://github.com/200okmk/next13-nest-graphql)|`TypeScript`, `React18`, `Next.js AppRouter`, `NestJS`, `PrismaORM`, `GraphQL`, `Apollo`, `Turborepo`, `Docker`, etc.|左記のNext.js(FE), NestJS(BE)など主要フレームワークの学習だけでは飽き足らず、当時頻繁に目にしていた「GraphQL」や「モノレポ」構成に興味を持ってしまい、結果半年以上費やしてしまった成れの果て。|GraphQLは大規模システムであっても採用が見送られるほど難易度の高いAPI方式であり、少なくとも単一言語でのフルスタックWebアプリ開発を目指していた当時の自分には全くマッチしない技術であることに冷静になってから気づき少し後悔。「熱意だけはある独学未経験者が純粋に技術を学ぶ際のリスク」を経験できたことを教訓にしたい。（ちなみにGraphQLもNestJSもその後触れていないため要リハビリ。）|
 
 ### ブログ投稿
 個人名では特になし（上記職務経歴欄 > 1社目の職務内容 > 記事執筆業務にて添付した記事のみ）
