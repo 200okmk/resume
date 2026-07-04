@@ -25,7 +25,7 @@
 
 ## 職務要約
 
-現場実務として約1年半、**TypseScript言語による比較的小規模なWebアプリ/システムの開発業務**に従事してきました。社内の慢性的な開発リソース不足もあり、入社直後からFE, BE, インフラ層などプロダクトに必要な範囲全てを、単独で主担当するのが基本でした（開発職の先輩が在籍中は適宜相談して助けていただきました。）。具体的に主な業務は社内ディレクターからの**要求整理、各種設計、実装、公開と保守、ドキュメンテーションなど**です。その他の業務として全社Web制作案件ごとのDNS管理、社内ブログの執筆、既存プロダクトの引き継ぎと保守なども並行して担当していました。
+現場実務として約1年半、**TypseScript言語による比較的小規模なWebアプリ/システムの開発業務**に従事してきました。社内の慢性的な開発リソース不足もあり、入社直後からFE, BE, インフラ層などプロダクトに必要な範囲全てを、単独で主担当するのが基本でした（開発職の先輩が在籍中は適宜相談して助けていただきました。）。具体的に主な業務は社内ディレクターからの**要求整理、各種設計、実装、公開と保守、ドキュメンテーションなど**です。その他の業務として各Web制作案件ごとのDNS管理、社内ブログの執筆、他案件の引き継ぎと保守なども並行して担当していました。
 
 今後は大規模システムのバックエンド開発をキャリアの中心にすべく、Java言語やAWSの勉強に励んできました。
 
@@ -39,29 +39,34 @@
 
 ## 技術スキル
 
-実業務で使用した技術は**太字**にしています。
+個人学習した技術も含めています。
 
 ### プログラミング言語 / フレームワーク
 
-**`TypeScript`**, **`Node.js`**, **`React19`**, **`Next.js AppRouter`**, **`Astro`**, **`Hono.js`**, `NestJS`
-
-**`SQL`**, `Java`, `SpringBoot`
+`TypeScript`, `Node.js`, `React19`, `TanStackStart/Router`, `Next.js AppRouter`, `Astro`, `Hono.js`, `NestJS`, `Java`, `SpringBoot`, `SQL`
 
 ### フロントエンドFE
 
-**`HTML`**, **`CSS`**, **`TailwindCSS`**, **`Shadcn/ui`**,
+`HTML`, `CSS`, `TailwindCSS`, `RadixUI`, `Shadcn/ui`, `Zustand`, `TanStackQuery`,  `TanStackForm`, `ReactHookForm`, `TanStackTable`, `GraphQL Codegen`
 
 ### バックエンドBE
 
-`[使用したことのある技術スタックを列挙してください]`
+`PostgreSQL`, `NeonDB`, `DrizzleORM`, `PrimaORM`, `Supabase ORM/Auth/Storage`, `BetterAuth`, `Clerk`, `GraphQL Apollo`, 
 
-### クラウドインフラ / PaaS
+### その他 / DevOps
 
-`[使用したことのある技術スタックを列挙してください]`
+`Zod`, `Biome`, `ESLint`, `Prettier`, `Github Actions`, `Docker`, `DevContainer`, `Turborepo`, `GraphQL`
 
-### その他
+### PaaS / AWS
+
+`Cloudflare Workers/Pages/D1/R2/DNS`, `Vercel`, `Netlify`
+
+`AWS Amplify`, `Lambda`, `S3`, `S3 Vectors`, `Bedrock KnowledgeBase`, `Bedrock Agent`, `EventScheduler`, `IAM`, `CloudWatch`, `SES`
+
 
 ### ツール
+
+`Zed`, `VSCode`, `Cursor`, `Eclipse`, `Github`, `Zsh`, `Ghostty`, 
 
 ## 職務経歴
 
