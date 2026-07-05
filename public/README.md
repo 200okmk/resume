@@ -6,7 +6,7 @@
 
 ### プロフィール
 
-|項目|値|
+|項目|内容|
 |---|---|
 |名前 / HN|おくの|
 |経験職種|Webアプリ開発（FE, BE, PaaSインフラ, その他）|
@@ -25,9 +25,9 @@
 
 ## 職務要約
 
-現場実務として約1年半、**TypseScript言語による比較的小規模なWebアプリ/システムの開発業務**に従事してきました。社内の慢性的な開発リソース不足もあり、入社直後からFE, BE, インフラ層などプロダクトに必要な範囲全てを、単独で主担当するのが基本でした（開発職の先輩が在籍中は適宜相談して助けていただきました。）。具体的に主な業務は社内ディレクターからの**要求整理、各種設計、実装、公開と保守、ドキュメンテーションなど**です。その他の業務として各Web制作案件ごとのDNS管理、社内ブログの執筆、他案件の引き継ぎと保守なども並行して担当していました。
+現場実務として約1年半、**TypseScript言語による比較的小規模なWebアプリ/システムの開発業務**に従事してきました。社内の慢性的な開発リソース不足もあり、入社直後からFE, BE, インフラ層などプロダクトに必要な範囲全てを、単独で主担当するのが基本でした（開発職の先輩が在籍中は適宜相談して助けていただきました。）。具体的に主な業務は社内ディレクターからの**要求整理、技術選択、各種設計、実装、公開と保守、ドキュメンテーションなど**です。その他業務としては、全社Web制作案件ごとのPaaSインフラとDNS管理、社内ブログの執筆、既存案件の引き継ぎと保守なども並行して担当していました。
 
-今後は大規模システムのバックエンド開発をキャリアの中心にすべく、Java言語やAWSの勉強に励んできました。
+今後は大規模システムのバックエンド開発をキャリアの中心にすべく、Java言語やAWSの勉強に励んでいます。
 
 <!--## 業務スキル
 
@@ -51,7 +51,7 @@
 
 ### バックエンドBE
 
-`PostgreSQL`, `NeonDB`, `DrizzleORM`, `PrimaORM`, `Supabase ORM/Auth/Storage`, `BetterAuth`, `Clerk`, `GraphQL Apollo`
+`PostgreSQL`, `NeonDB`, `DrizzleORM`, `PrimaORM`, `Supabase ORM/Auth/Storage`, `BetterAuth`, `Clerk`, `GraphQL Apollo`, `Socket.io`
 
 ### その他 / DevOps
 
@@ -59,7 +59,7 @@
 
 ### PaaS / AWS
 
-`Cloudflare Workers/Pages/D1/R2/DNS`, `Vercel`, `Netlify`
+`Cloudflare Workers/Pages/D1/R2/DNS`, `Vercel`, `Netlify`, `Render`
 
 `AWS Amplify`, `Lambda`, `S3`, `S3 Vectors`, `Bedrock KnowledgeBase`, `Bedrock Agent`, `EventScheduler`, `IAM`, `CloudWatch`, `SES`
 
@@ -69,19 +69,25 @@
 
 ## 職務経歴
 
-### [会社名①]（YYYY/MM - YYYY/MM）
+### 株式会社ノベルティ（2024/07 - 2026/02）
 
-```txt
-[業務内容のサマリーを記述してください]
-```
+`Next.js AppRouter`でWebアプリ開発ができそうな会社に絞った就活を経て、エンジニアとして入社した最初の会社様です。**TypseScript言語による比較的小規模なWebアプリ/システムの開発業務**に従事してきました。社内の慢性的な開発リソース不足もあり、入社直後からFE, BE, インフラ層などプロダクトに必要な範囲全てを、単独で主担当するのが基本でした（開発職の先輩が在籍中は適宜相談して助けていただきました。）。
 
-以下では参画したプロジェクトの内、主要なもののみを記載します。
+|項目|内容|
+|---|---|
+|事業内容|主に企業のHP受託制作、Web/SNSマーケティング、記事コンテンツ制作、稀に受託開発など|
+|社員数|12人前後（うちマークアップエンジニア2~3人, 開発エンジニア1~2人）|
+|取引業態|クライアントとの直接取引|
+|主な担当業務|社内ディレクターからの要求整理、各種設計、実装、公開、継続保守、ドキュメンテーションなど開発に必要な業務全て|
+|その他の並行業務|全社Web制作案件ごとのPaaSインフラとDNS管理、社内ブログの執筆、既存案件引き継ぎと保守、開発環境の整備・提案など|
 
-#### [プロジェクト名] （YYYY/MM - YYYY/MM)
+↓プロジェクト毎に開始時期の降順で詳述。
+
+#### 建築関連会社仲介・管理サービス （2024/08 - 2025/03)
 
 ##### 概要
 
-[プロジェクト概要を記述してください]
+とある建築資材商社様からの依頼で
 
 ##### 担当
 
@@ -132,14 +138,14 @@
 
 ### ハンズオン学習
 
-主にハンズオン学習を目的にしたリポジトリの一部です。公開するほどのレベルではないので、あくまで個人的に取り組んできた技術分野を簡単に紹介するため一部Publicにして以下に記載します(作成日降順)。
+主にハンズオン学習のために作成したリポジトリたちです。本来公開するほどのレベルではないので、あくまで個人的に取り組んできた技術分野を紹介する目的で一部Publicにして以下に記載します(作成日降順)。
 
 |リポジトリ名|主要技術|概要|備考|
 |---|---|---|---|
-|[resume](https://github.com/200okmk/resume)|`TypeScript`, `React19`, `TanStack Router`, `TailwindCSS`, `Vite`, `Github Actions`, `Github Pages`, etc.|Markdownファイルで作成・追記した職務経歴書をWebサイト化してURL共有やCSSスタイリングするためのプロジェクト。|CI/CD入れてハードルを下げて、今度こそ僕はサボらず定期的に更新していくんだ！|
+|[resume](https://github.com/200okmk/resume)|`TypeScript`, `React19`, `TanStack Router`, `TailwindCSS`, `Vite`, `Github Actions`, `Github Pages`, etc.|Markdownファイルで作成・追記する職務経歴書をWebサイト化して、URL共有やCSSスタイリングをするためのプロジェクト。|CI/CDも入れて心理的ハードルを下げて、今度こそワイはサボらず更新していくんや！|
 |[full-tanstack-starter](https://github.com/200okmk/full-tanstack-starter)|`TypeScript`, `React19`, `TanStack Start/Query/Form`, `TailwindCSS`, `BetterAuth`, `DrizzleORM`, `Vite`, `NeonDB`, `Cloudflare`, `Github Actions` etc.|フルスタックWebアプリ開発に必要な諸々を素早く展開するために、各分野の主要ライブラリを事前に組み合わせたテンプレ。|AIコーディングツールの使用を前提に、その制御手法やドキュメント運用手法の学習と整備に挑戦中。使用技術やアーキテクチャも随時更新していく（はず）。|
-|[discord-clone](https://github.com/200okmk/discord-clone)（停止中）|`TypeScript`, `React18`, `Next.js AppRouter`, `TailwindCSS`, `Zustand`, `Clerk`, `PrismaORM`, `Socket.io`, `Docker`, `Render`, etc.|エンジニア転職用のポートフォリオとして作成した最初のWebアプリ。機能は基本的なチャットIF、サーバーとチャンネルの作成・招待追放・管理などのCRUD操作、WebSocketによるリアルタイムプッシュ通信、ビデオ通話、フルレスポンシブUI、ダークモード、ランディングページなど。|未経験ながら必要そうに感じたものは妥協せず、当時できる限界まで様々な技術的挑戦をした。例えばチーム開発や保守性の向上に対して有効そうな仕組みやツールも適宜学習＆導入。具体的には、アプリ本体と本番DB両方のDockerコンテナ化、開発環境も丸ごとDockerコンテナ化して一律にするDevContainerの作成、Github Projects上にカンバンボードを作成して課題ごとにIssue起票＆エラーやアプローチ等を詳細に記録するなど。また最初から全ての記録を英語にしていたことが功を奏し、海外の同じ駆け出しエンジニア数名からとても感謝されたことも非常に嬉しかった。|
-|[next13-nestjs-graphql](https://github.com/200okmk/next13-nest-graphql)|`TypeScript`, `React18`, `Next.js AppRouter`, `NestJS`, `PrismaORM`, `GraphQL`, `Apollo`, `Turborepo`, `Docker`, etc.|左Next.js(FE)やNestJS(BE)など主要フレームワークの学習だけでなく、当時頻繁に目にしていた「GraphQL」や「モノレポ構成」なるものに興味を持ってしまい、結果半年以上費やしてしまった成れの果て。|GraphQLは大規模システムであっても採用が見送られるほど難易度の高いAPI方式であり、少なくとも単一言語でのフルスタックWebアプリ開発を目指していた当時の自分には全くマッチしない技術であることに冷静になってから気づき少し後悔。「熱意だけはある独学未経験者が純粋に技術を学ぶ際のリスク」を経験できたことを教訓にしたい。（ちなみにGraphQLもNestJSもその後触れていないため要リハビリ。）|
+|[discord-clone](https://github.com/200okmk/discord-clone)（停止中）|`TypeScript`, `React18`, `Next.js AppRouter`, `TailwindCSS`, `Zustand`, `Clerk`, `PrismaORM`, `Socket.io`, `Docker`, `Render`, etc.|エンジニア転職用のポートフォリオとして作成した最初のWebアプリ。機能は基本的なチャットIF、サーバーとチャンネルの作成・招待追放・管理などのCRUD操作、WebSocketによるリアルタイムプッシュ通信、ビデオ通話、フルレスポンシブUI、ダークモード、ランディングページなど。|未経験とはいえチーム開発や保守性の向上も妥協せず、有効そうな仕組みを適宜リサーチして導入するなど当時の限界まで様々な技術的挑戦をした。具体的には、アプリ本体と本番DB両方のDockerコンテナ化して可搬性向上、開発環境も丸ごとDockerコンテナ化して一律にするDevContainerの作成、Github Projects上でタスクごとにIssue起票＆エラーやアプローチ等を詳細に記録するなど。また最初から全ての記録を英語にしていたことが功を奏し、海外の同じ駆け出しエンジニア数名からとても感謝されたことも非常に嬉しかった。|
+|[next13-nestjs-graphql](https://github.com/200okmk/next13-nest-graphql)|`TypeScript`, `React18`, `Next.js AppRouter`, `NestJS`, `PrismaORM`, `GraphQL`, `Apollo`, `Turborepo`, `Docker`, etc.|左記Next.js(FE)やNestJS(BE)など主要フレームワークの学習に加えて、当時頻繁に目にしていた「GraphQL」や「モノレポ構成」なるものに興味を持ってしまい、結果半年以上費やしてしまった成れの果て。|当然だがGraphQLは、単一言語でのフルスタックWebアプリ開発には過剰な技術。薄々理解はしていたためしばらく経ったのち反省。「熱意だけはある未経験者が独学で技術を学ぶ際のリスク」を経験できたことを教訓にしたい。（ちなみにGraphQLもNestJSもその後触れていないため要リハビリ。）|
 
 ### ブログ投稿
 
