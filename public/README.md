@@ -25,9 +25,9 @@
 
 ## 職務要約
 
-現場実務として約1年半、**TypseScript言語による比較的小規模なWebアプリ/システムの開発業務**に従事してきました。社内の慢性的な開発リソース不足もあり、入社直後からFE, BE, インフラ層などプロダクトに必要な範囲全てを、単独で主担当するのが基本でした（開発職の先輩が在籍中は適宜相談して助けていただきました。）。具体的に主な業務は社内ディレクターからの**要求整理、技術選択、各種設計、実装、公開と保守、ドキュメンテーションなど**です。その他業務としては、全社Web制作案件ごとのPaaSインフラとDNS管理、社内ブログの執筆、既存案件の引き継ぎと保守なども並行して担当していました。
+現場実務として約1年半、TypseScript言語での比較的小規模なWebアプリ/システムの開発業務に従事しました。**FE, BE, インフラなどその開発ごとに必要な範囲全てを、基本的に単独で主担当**してきました（開発職の先輩が在籍中は適宜相談して助けていただきました）。具体的な主業務は社内ディレクターからの**要求整理、技術選択、各種設計、実装、公開、継続保守、ドキュメンテーションなど**です。加えてその他業務として、全社のWeb制作案件ごとにPaaSインフラとDNS管理、開発案件でのAPI仕様変更および脆弱性リリースへの対応、既存案件の引き継ぎと保守、社内ブログの執筆、エンジニア採用面接なども並行して担当していました。
 
-今後は大規模システムのバックエンド開発をキャリアの中心にすべく、Java言語やAWSの勉強に励んでいます。
+今後は中規模以上プロダクトのバックエンド開発をキャリアの中心にすべく、新たにJava言語やAWSの勉強にも励んでいます。
 
 <!--## 業務スキル
 
@@ -47,64 +47,71 @@
 
 ### フロントエンドFE
 
-`HTML`, `CSS`, `TailwindCSS`, `RadixUI`, `Shadcn/ui`, `Zustand`, `TanStackQuery`,  `TanStackForm`, `ReactHookForm`, `TanStackTable`, `GraphQL Codegen`
+`HTML`, `CSS`, `TailwindCSS`, `RadixUI`, `Shadcn/ui`, `Zustand`, `TanStackQuery`, `Zod`, `TanStackForm`, `ReactHookForm`, `TanStackTable`, `GraphqlCodegen`
 
 ### バックエンドBE
 
-`PostgreSQL`, `NeonDB`, `DrizzleORM`, `PrimaORM`, `Supabase ORM/Auth/Storage`, `BetterAuth`, `Clerk`, `GraphQL Apollo`, `Socket.io`
+`SQLite`, `PostgreSQL`, `NeonDB`, `Supabase DB/Auth/Storage`, `BetterAuth`, `Clerk`, `GoogleAppScript`, `NodeMailer`, `SlackAPI`, `NotionAPI`, `GraphQL Apollo`, `Socket.io`
 
 ### その他 / DevOps
 
-`Zod`, `Biome`, `ESLint`, `Prettier`, `Github Actions`, `Docker`, `DevContainer`, `Turborepo`, `GraphQL`
+`ESLint`, `Prettier`, `Biome`, `Github Actions`, `Docker`, `DevContainer`, `Turborepo`, `GraphQL`
 
 ### PaaS / AWS
 
 `Cloudflare Workers/Pages/D1/R2/DNS`, `Vercel`, `Netlify`, `Render`
 
-`AWS Amplify`, `Lambda`, `S3`, `S3 Vectors`, `Bedrock KnowledgeBase`, `Bedrock Agent`, `EventScheduler`, `IAM`, `CloudWatch`, `SES`
+`AWS Amplify`, `CloudWatch`, `S3`, `S3 Vectors`, `Bedrock KnowledgeBase`, `Bedrock Agent`, `Lambda`, `EventScheduler`, `IAM`, `SES`
 
 ### ツール
 
-`Zed`, `VSCode`, `Cursor`, `Eclipse`, `Github`, `Zsh`, `Ghostty`, `Notion`, `Slack`
+`Zed`, `VSCode`, `Cursor`, `Eclipse`, `Github`, `Notion`, `Slack`, `MicroCMS`, `Figma`, `Ghostty`, `Zsh`, `MacOS`
 
 ## 職務経歴
 
+会社ごと / プロジェクトごとに大まかな時系列降順で詳述
+
 ### 株式会社ノベルティ（2024/07 - 2026/02）
 
-`Next.js AppRouter`でWebアプリ開発ができそうな会社に絞った就活を経て、エンジニアとして入社した最初の会社様です。**TypseScript言語による比較的小規模なWebアプリ/システムの開発業務**に従事してきました。社内の慢性的な開発リソース不足もあり、入社直後からFE, BE, インフラ層などプロダクトに必要な範囲全てを、単独で主担当するのが基本でした（開発職の先輩が在籍中は適宜相談して助けていただきました。）。
+`Next.js AppRouter`でのWebアプリ開発ができそうな会社のみに絞った就活を経て、エンジニアとしてキャリアを始めた最初の会社です。TypseScript言語での比較的小規模なWebアプリ/システムの開発業務に従事しました。社内の慢性的な開発リソース不足もあり、FE, BE, インフラなどその開発ごとに必要な範囲全てを、基本的に単独で主担当していました（開発職の先輩が在籍中は適宜相談して助けていただきました）。
 
 |項目|内容|
 |---|---|
 |事業内容|主に企業のHP受託制作、Web/SNSマーケティング、記事コンテンツ制作、稀に受託開発など|
 |社員数|12人前後（うちマークアップエンジニア2~3人, 開発エンジニア1~2人）|
-|取引業態|クライアントとの直接取引|
-|主な担当業務|社内ディレクターからの要求整理、各種設計、実装、公開、継続保守、ドキュメンテーションなど開発に必要な業務全て|
-|その他の並行業務|全社Web制作案件ごとのPaaSインフラとDNS管理、社内ブログの執筆、既存案件引き継ぎと保守、開発環境の整備・提案など|
+|取引業態|一次請け直接取引|
+|筆者の主な担当業務|受託および自社の開発案件において、社内ディレクターからの要求整理、技術選択、各種設計、実装、公開、継続保守、ドキュメンテーションなど開発に必要な業務全て|
+|筆者のその他並行業務|全社Web制作案件ごとのPaaSインフラとDNS管理、開発案件でのAPI仕様変更や脆弱性リリースへの対応、社内ブログの執筆、既存案件引き継ぎと保守、開発環境の整備・提案、エンジニア採用面接など|
 
-↓プロジェクト毎に開始時期の降順で詳述。
 
-#### 建築関連会社仲介・管理サービス （2024/08 - 2025/03)
+#### 建築関連会社仲介＆管理サービス （2024/08 - 2025/03)
 
 ##### 概要
 
-とある建築資材商社様からの依頼で
+ご依頼主の建築資材商社様の取引先ネットワークを活かした、**業者および案件仲介Webアプリ**。発注業社（元請）と受注業者（下請）を、案件または会社単位でマッチングさせる2つの仲介機能を主に提供するものです。ユーザー画面側では会員登録、案件登録、案件検索・エントリー、ユーザー検索・マッチ申請などが可能。管理画面に反映させたそれら情報を元に、先方商社の営業担当が発注・受注双方に営業活動して仲介をクロージングする仕様のため、**実態はCRMアプリ** と言えそうです。
 
-##### 担当
+##### 使用技術
+
+- **フロントエンドFE**：`React18`, `Next.js14 AppRouter`, `SCSS`, `TailwindCSS`, `Shadcn/ui`, `TanStackQuery`, `TanStackTable`, `Yup`, `ReactHookForm`
+- **バックエンドBE**：`PostgreSQL`, `Supabase DB/Auth`, `AmazonSES`, `GoogleAppScript`
+- **インフラ / その他**：`Cloudflare Workers` (<- `Cloudflare Pages` <- `Vercel`), `MicroCMS`,
+
+##### チーム体制と開発環境
+
+経緯: アプリ開発経験自体が乏しい弊社にとってバックエンド開発も自社で行うほぼ初めての受託案件であったが前任者が退職。急遽フルスタックWeb開発ポジションを募集し、筆者が採用され入社直後から参加した。
+
+##### 自分の担当業務詳細
 
 1. [担当フェーズ1]
 2. [担当フェーズ2]
 3. [担当フェーズ3]
 
-##### 業務内容
+##### 開発上の課題、アプローチ、成果など
 
 1. [業務内容1]
 2. [業務内容2]
 3. [業務内容3]
 
-##### 使用技術
-
-- [使用技術カテゴリ1]：`[技術名1]` `[技術名2]`
-- [使用技術カテゴリ2]： `[技術名1]`
 
 ### [会社名②]（YYYY/MM - YYYY/MM)
 
@@ -138,7 +145,7 @@
 
 ### ハンズオン学習
 
-主にハンズオン学習のために作成したリポジトリたちです。本来公開するほどのレベルではないので、あくまで個人的に取り組んできた技術分野を紹介する目的で一部Publicにして以下に記載します(作成日降順)。
+主にハンズオン学習目的で作成したリポジトリたちを一部Publicにして下記に記載。本来公開するほどのレベルではないので、あくまで個人的に取り組んできた技術分野の例として紹介します(作成日降順)。
 
 |リポジトリ名|主要技術|概要|備考|
 |---|---|---|---|
