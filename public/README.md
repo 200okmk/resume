@@ -51,7 +51,7 @@
 
 ### バックエンドBE
 
-`PostgreSQL`, `NeonDB`, `DrizzleORM`, `PrimaORM`, `Supabase ORM/Auth/Storage`, `BetterAuth`, `Clerk`, `GraphQL Apollo`, 
+`PostgreSQL`, `NeonDB`, `DrizzleORM`, `PrimaORM`, `Supabase ORM/Auth/Storage`, `BetterAuth`, `Clerk`, `GraphQL Apollo`
 
 ### その他 / DevOps
 
@@ -63,10 +63,9 @@
 
 `AWS Amplify`, `Lambda`, `S3`, `S3 Vectors`, `Bedrock KnowledgeBase`, `Bedrock Agent`, `EventScheduler`, `IAM`, `CloudWatch`, `SES`
 
-
 ### ツール
 
-`Zed`, `VSCode`, `Cursor`, `Eclipse`, `Github`, `Zsh`, `Ghostty`, 
+`Zed`, `VSCode`, `Cursor`, `Eclipse`, `Github`, `Zsh`, `Ghostty`, `Notion`, `Slack`
 
 ## 職務経歴
 
