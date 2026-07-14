@@ -43,17 +43,15 @@
 
 個人学習した技術も含めています。
 
-### プログラミング言語 / フレームワーク
-
-`TypeScript`, `React19`, `TanStackStart/Router`, `Next.js`, `Astro`, `Node.js`, `Hono`, `NestJS`, `Java`, `SpringBoot`
-
 ### フロントエンドFE
 
-`HTML`, `TailwindCSS`, `CSS`, `RadixUI`, `LucideReact`, `Shadcn/ui`, `Zustand`, `TanStackQuery`, `TanStackForm`, `ReactHookForm`, `TanStackTable`
+`HTML`, `TailwindCSS`, `TypeScript`, `React19`, `TanStackStart/Router`, `Next.js`, `Astro`, `Shadcn/ui`, `RadixUI`, `Zustand`, `TanStackQuery`, `TanStackForm`, `ReactHookForm`, `TanStackTable`
 
 ### バックエンドBE
 
-`SQL`, `SQLite`, `PostgreSQL`, `NeonDB`, `DrizzleORM`, `PrismaORM`, `Supabase DB/Auth/Storage`, `BetterAuth`, `Clerk`, `Slack API`, `Notion API`, `GraphQL Apollo`, `Socket.io`
+`SQL`, `Node.js`, `Hono`, `NestJS`, `DrizzleORM`, `PrismaORM`, `SQLite`, `PostgreSQL`, `NeonDB`, `Supabase DB/Auth/Storage`, `BetterAuth`, `Clerk`, `Slack API`, `Notion API`, `GraphQL Apollo`, `Socket.io`
+
+`Java`, `SpringBoot`
 
 ### その他 / DevOps
 
