@@ -128,8 +128,8 @@
 - コストを優先した`Bedrock KnowledgeBase`構成選択
   - ストレージ（`S3`）
   - ベクトルDB（`S3 Vectors`）
-  - ベクトル変換モデル（`Cohere Multilingual`）
-  - 応答LLMモデル（`Claude Haiku`）
+  - ベクトル変換モデル（`Cohere 多言語版`）
+  - 応答LLMモデル（`Claude 廉価モデル`）
   - その他
 - `Bedrock Agent`で応答要件の安定化
   - 上記KBをラップして自然言語での詳細なカスタムプロンプトを付与
