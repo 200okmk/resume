@@ -11,7 +11,7 @@
 |名前|おくの|
 |経験職種|主にWebアプリ開発（FE, BE, PaaS, etc.）|
 |実務年数|1年8ヶ月|
-|職務経歴サイト|[🚧仮サイト🚧](https://github.com/200okmk/resume/public)（https://github.com/200okmk/resume/public）|
+|職務経歴サイト|[🚧仮サイト🚧](https://github.com/200okmk/resume/tree/main/public#readme) (https://github.com/200okmk/resume/tree/main/public#readme)|
 |16タイプ|INTP論理学者|
 
 ### 資格
