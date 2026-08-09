@@ -1,6 +1,6 @@
 # 職務経歴書
 
-最終更新: 2026/08/02
+最終更新: 2026/08/09
 
 ## プロフィール
 
@@ -9,7 +9,7 @@
 |項目|内容|
 |---|---|
 |名前|おくの|
-|経験職種|主にWebアプリ開発（FE, BE, PaaS, etc.）|
+|経験職種|小規模Webアプリ開発（FE, BE, PaaSインフラなど）|
 |実務年数|1年8ヶ月|
 |職務経歴サイト|[🚧仮サイト🚧](https://github.com/200okmk/resume/tree/main/public#readme) (https://github.com/200okmk/resume/tree/main/public#readme)|
 |16タイプ|INTP論理学者|
@@ -30,15 +30,9 @@
 
 現場実務で約1年半、TypeScript言語での小規模なWebアプリ/システムの開発業務に従事。**基本単独でフロントエンドFE, バックエンドBE, インフラ層を横断的に担当**してきました（開発職の先輩が在籍中は適宜相談してご協力頂きました）。UX向上や将来性の視点も持ちながら、機能仕様やUI改善などを自ら検討・提案してきました。具体的な主業務は**詳細仕様の検討と提案、技術選択、各種設計、FEとBEの実装、ドキュメント作成、公開、継続保守など開発業務全般**です。その他並行業務としてWeb制作案件ごとにホスト先PaaSとDNS管理、脆弱性発表への対応、既存開発案件の引き継ぎ保守、自社ブログの執筆、エンジニア採用面接なども担当していました。
 
-今後は中規模以上プロダクトのバックエンドBE開発をキャリアの中心にすべく、新たにJava言語やAWSの勉強にも励んでいます。
+今後はキャリアの軸足を中・大規模プロダクトのバックエンドBE開発にステップアップさせるべく、新たにJava言語とSpring、またAWSの資格勉強に励んでいます。
 
-<!--## 業務スキル
-
-### [業務スタック①]
-
-```txt
-[あなたのスキル概要を文章形式で記述してください]
-```-->
+<!--## 業務スキル-->
 
 ## 技術スキル
 
@@ -46,13 +40,11 @@
 
 ### フロントエンドFE
 
-`HTML`, `TailwindCSS`, `CSS`, `TypeScript`, `Astro`, `React19`, `TanStack Router`, `Shadcn/ui`, `RadixUI`, `Zustand`, `TanStack Query/Table/Form`, `ReactHookForm`
+`HTML`, `TailwindCSS`, `CSS`, `TypeScript`, `Astro`, `React19`, `TanStack Start/Router`, `Next.js AppRouter`, `Shadcn/ui`, `RadixUI`, `Zustand`, `TanStack Query/Table/Form`, `ReactHookForm`
 
 ### バックエンドBE
 
-`Node.js(TS)`, `TanStack Start`, `Next.js`, `Hono`, `NestJS`, `BetterAuth`, `Clerk`, `DrizzleORM`, `PrismaORM`,
-
-`Java`, `SpringBoot`,
+`Node.js(TS)`, `Hono`, `NestJS`, `BetterAuth`, `Clerk`, `DrizzleORM`, `PrismaORM`, `Java`, `SpringBoot`,
 
 `SQL`, `SQLite`, `PostgreSQL`, `NeonDB`, `Supabase ORM/DB/Auth/Storage`, `Slack API`, `Notion API`
 
@@ -60,11 +52,11 @@
 
 `Cloudflare Workers/Pages/D1/DNS`, `Vercel`, `Netlify`, `Render`,
 
-`AWS Amplify`, `CloudWatch`, `S3`, `S3 Vectors`, `Bedrock KnowledgeBase`, `Bedrock Agent`, `Lambda`, `EventBridge`, `IAM`, `SES`
+`AWS Amplify`, `IAM`, `Lambda`, `S3`, `S3 Vectors`, `Bedrock KnowledgeBase`, `Bedrock Agents`, `EventBridge`, `SES`
 
 ### その他 / DevOps
 
-`Zod`, `ESLint`, `Prettier`, `Biome`, `Github Actions`, `Docker`, `DevContainer`, `Mermaid`, `Turborepo`, `GraphQL`
+`Zod`, `ESLint`, `Prettier`, `Biome`, `Husky`, `Github Actions`, `Docker`, `DevContainer`, `Mermaid`, `Turborepo`, `GraphQL`
 
 ### ツール
 
@@ -221,7 +213,7 @@
 
 ##### 概要
 
-依頼主の建築資材商社様が保有する取引先ネットワークを活用した**業者および案件仲介Webアプリ**。**発注業社（元請）と受注業者（下請）を、会社または案件単位でマッチングさせる2つの仲介機能を主に提供する**ものです。ユーザー画面にて案件登録・検索・エントリーや、業者検索・マッチ申請などができます。それら情報を反映させた管理画面を元に、先方商社の営業ご担当者様が発注・受注業者双方に営業活動して仲介をクロージングする仕様のためCRMアプリでもあります。筆者は詳細仕様の検討と提案から、技術選択、両画面のFEとBE実装、ドキュメント作成、継続保守まで一貫して開発業務全般を主担当しました。
+ご依頼主の建築資材商社様が保有する取引先ネットワークを活用した**業者および案件仲介Webアプリ**。**発注業社（元請）と受注業者（下請）を、会社または案件単位でマッチングさせる2つの仲介機能を主に提供する**ものです。ユーザー画面にて案件登録・検索・エントリーや、業者検索・マッチ申請などができます。それら情報を反映させた管理画面を元に、先方商社の営業ご担当者様が発注・受注業者双方に営業活動して仲介をクロージングする仕様のためCRMアプリでもあります。筆者は詳細仕様の検討と提案から、技術選択、両画面のFEとBE実装、ドキュメント作成、継続保守まで一貫して開発業務全般を主担当しました。
 
 ##### 使用技術
 
